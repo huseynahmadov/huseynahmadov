@@ -7,9 +7,9 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/huseynahmadov?label=follow&style=social)](https://github.com/huseynahmadov)
 
 
-<img align='left'   src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
-<img align='left'   src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
-<img align='left'   src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
+<img align='left'   src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white'>
+<img align='left'   src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'>
+<img align='left'   src='https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white'>
 
 
 
